@@ -34,3 +34,14 @@ Later that year I also spent three weeks assisting in the comissioning of GOTO's
 Astrophotography
 ---
 Part of what inspired me to study astrophysics was picking up amateur astrophotography in my late teens. Whenever possible I take a camera with me to observatories to take images while we work, and I'm always looking for opportunities to present our scientific data in visually appealing ways.
+
+<center>
+<p>
+<a href="https://app.astrobin.com/i/cphpxv">
+<img src="https://cdn.astrobin.com/thumbs/Lr-7f_lSsVmW_620x0_esdlMP5Y.jpg" />
+</a>
+</p>
+<p>
+<em>Southern Cross - Imaged using GOTO-S during commissioning.</em>
+</p>
+</center>
