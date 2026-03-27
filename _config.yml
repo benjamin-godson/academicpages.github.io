@@ -34,6 +34,7 @@ author:
 
   # Academic websites
   academia         : # URL
+  ads              : "https://ui.adsabs.harvard.edu/user/libraries/sgKXz8lXQpCXabhN3DxRvQ"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.co.uk/citations?user=df9P2nwAAAAJ&hl=en"
   impactstory      : # URL
@@ -54,7 +55,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "bendgodson.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
