@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, University of Warwick, 2026 (expected)
+* M.Phys. in Physics with Astrophysics, University of Exeter, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - 2024: Student Support Astronomer
+  * Isaac Newton Group of Telescopes
+  * Duties includes: Support and train visiting observers, change instrument configurations, independent observing.
+  * Supervisors: Dr Yeisson Osorio & Dr Cecilia Fariña
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 - 2023: Senior Graduate Teaching Assistant
+  * University of Warwick
+  * Duties included: Demonstrating lab experiments, observatory tours.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Astronomical Observations
+  * Experience with wide range of optical telescopes
+  * Trained to observe with [Green Bank Telescope](https://greenbankobservatory.org/)
+* Astronomical Data Reduction (Pyraf/iraf, CCDProc, CASA)
+* Programming
+  * Profficient in Python
+  * Familiar with Rust, Julia, C, and CUDA
 
 Publications
 ======
