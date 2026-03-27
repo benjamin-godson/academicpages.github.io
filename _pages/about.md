@@ -17,3 +17,12 @@ where I worked as a support astronomer on the [William Herschel](https://www.ing
 I've been an active astrophotographer for nearly a decade, using a mix of personally owned and professional telescopes.
 Some of my images can be found on [Astrobin](https://www.astrobin.com/users/Whyistheskyblue/), though most are
 shared on my [Instagram](https://www.instagram.com/benspaceysnaps/).
+
+Research
+---
+
+Observing
+---
+
+Astrophotography
+---
