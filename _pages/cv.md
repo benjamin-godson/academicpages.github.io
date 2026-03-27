@@ -35,6 +35,12 @@ Skills
   * Profficient in Python
   * Familiar with Rust, Julia, C, and CUDA
 
+Conference Contributions
+======
+* 2025 National Astronomy Meeting - Co-organised the "Explosive Transients in the Present and Future Sky" session
+
+* 2025 UK & Ireland Transients Meeting - Member of the local organising committee
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -55,4 +61,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2020-2022: President of University of Exeter astronomy society 
+
+* 2024-2026: Chief Telescope Officer of University of Warwick astronomy society 

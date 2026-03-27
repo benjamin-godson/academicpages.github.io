@@ -14,7 +14,7 @@ I'm currently a PhD student at the University of Warwick, working with the [Grav
 Previously I completed a studentship at the [Isaac Newton Group of Telescopes](https://www.ing.iac.es/),
 where I worked as a support astronomer on the [William Herschel](https://www.ing.iac.es/astronomy/telescopes/wht/) and [Isaac Newton](https://www.ing.iac.es/astronomy/telescopes/int/) telescopes.
 
-I've been an active astrophotographer for nearly a decade, using a mix of personally owned and professional telescopes.
+I've been an active astrophotographer for nearly a decade, using a mix of personally owned and professional telescopes. In 2025 one of my images of a supernova discovere by GOTO was chosen as NASA's [Astronomy Picture of the Day](https://apod.nasa.gov/apod/ap250731.html)
 Some of my images can be found on [Astrobin](https://www.astrobin.com/users/Whyistheskyblue/), though most are
 shared on my [Instagram](https://www.instagram.com/benspaceysnaps/).
 
