@@ -24,7 +24,7 @@ repository               : "benjamin-godson/academicpages.github.io" # the GitHu
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ben Godson"
+  name             : "Test User"
   pronouns         : # example: "she/her"  
   bio              : "Observational astronomer and PhD student in Extragalactic Transients"
   location         : "La Palma"
